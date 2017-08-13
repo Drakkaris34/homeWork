@@ -1,5 +1,6 @@
 ###Test plan
 
+![alt text](https://image.ibb.co/n0GChF/image.png)
 
 1.	Notepad
 Notepad is a generic text editor included with all versions of Microsoft Windows that allows you to create, open, and read plaintext files. If the file contains special formatting or is not a plaintext file, it will not be able to be read in Microsoft Notepad. 
